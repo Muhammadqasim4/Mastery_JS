@@ -1,4 +1,10 @@
 function sayHello() {
     console.log("Hello JS");
 }
-sayHello()
+sayHello() 
+
+
+function sayHello() {
+    console.log("Hello JS");
+}
+sayHello() 
